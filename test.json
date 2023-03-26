@@ -1,0 +1,242 @@
+[
+    {
+      "title": "Getting Started with React",
+      "body": "This tutorial will teach you the basics of React and how to get started with building your own React apps.",
+      "category": "Technology",
+      "tags": ["React", "JavaScript", "Web Development"],
+      "author": {
+        "name": "John Doe",
+        "email": "johndoe@example.com"
+      },
+      "created_at": "2022-03-25T12:00:00.000Z",
+      "updated_at": "2022-03-26T08:30:00.000Z"
+    },
+    {
+      "title": "10 Tips for Writing Clean Code",
+      "body": "Learn some best practices for writing clean and maintainable code that will make your life easier in the long run.",
+      "category": "Programming",
+      "tags": ["Coding", "Best Practices"],
+      "author": {
+        "name": "Jane Smith",
+        "email": "janesmith@example.com"
+      },
+      "created_at": "2022-03-20T09:30:00.000Z",
+      "updated_at": "2022-03-22T11:15:00.000Z"
+    },
+    {
+      "title": "The Benefits of Yoga for Stress Relief",
+      "body": "Discover how practicing yoga can help reduce stress and improve your overall well-being.",
+      "category": "Health",
+      "tags": ["Yoga", "Meditation"],
+      "author": {
+        "name": "Alice Jones",
+        "email": "alicejones@example.com"
+      },
+      "created_at": "2022-03-18T15:45:00.000Z",
+      "updated_at": "2022-03-19T10:20:00.000Z"
+    },
+    {
+      "title": "The Best Hiking Trails in the Pacific Northwest",
+      "body": "Explore the beautiful outdoors with these amazing hiking trails in the Pacific Northwest.",
+      "category": "Travel",
+      "tags": ["Hiking", "Outdoors"],
+      "author": {
+        "name": "Tom Smith",
+        "email": "tomsmith@example.com"
+      },
+      "created_at": "2022-03-15T11:00:00.000Z",
+      "updated_at": "2022-03-17T08:45:00.000Z"
+    },
+    {
+      "title": "10 Must-Read Books for Entrepreneurs",
+      "body": "If you're an entrepreneur, these books are a must-read to help you grow your business and succeed in your career.",
+      "category": "Business",
+      "tags": ["Entrepreneurship", "Books"],
+      "author": {
+        "name": "Mike Johnson",
+        "email": "mikejohnson@example.com"
+      },
+      "created_at": "2022-03-12T14:30:00.000Z",
+      "updated_at": "2022-03-14T09:10:00.000Z"
+    },
+    {
+        "title": "The Benefits of Learning a Second Language",
+        "body": "Discover the cognitive and professional benefits of learning a second language, and get started with some helpful tips.",
+        "category": "Education",
+        "tags": ["Language Learning", "Career Development"],
+        "author": {
+          "name": "David Chen",
+          "email": "davidchen@example.com"
+        },
+        "created_at": "2022-03-10T16:00:00.000Z",
+        "updated_at": "2022-03-11T11:30:00.000Z"
+      },
+      {
+        "title": "5 Tips for Planning a Memorable Family Vacation",
+        "body": "Take the stress out of planning your next family vacation with these tips for creating a memorable and fun-filled trip.",
+        "category": "Travel",
+        "tags": ["Family Vacation", "Travel Planning"],
+        "author": {
+          "name": "Emily Davis",
+          "email": "emilydavis@example.com"
+        },
+        "created_at": "2022-03-08T10:15:00.000Z",
+        "updated_at": "2022-03-09T08:45:00.000Z"
+      },
+      {
+        "title": "How to Build a Successful Social Media Strategy",
+        "body": "Learn the essential elements of a successful social media strategy, and get started with these practical tips and examples.",
+        "category": "Marketing",
+        "tags": ["Social Media", "Digital Marketing"],
+        "author": {
+          "name": "Mark Wilson",
+          "email": "markwilson@example.com"
+        },
+        "created_at": "2022-03-05T13:30:00.000Z",
+        "updated_at": "2022-03-07T10:00:00.000Z"
+      },
+      {
+        "title": "The Importance of Sleep for Your Health",
+        "body": "Learn about the essential role of sleep in maintaining your physical and mental health, and get tips for improving your sleep habits.",
+        "category": "Health",
+        "tags": ["Sleep", "Wellness"],
+        "author": {
+          "name": "Karen Lee",
+          "email": "karenlee@example.com"
+        },
+        "created_at": "2022-03-03T08:45:00.000Z",
+        "updated_at": "2022-03-04T07:15:00.000Z"
+      },
+      {
+        "title": "10 Tips for Improving Your Writing Skills",
+        "body": "Whether you're a professional writer or just looking to improve your writing skills, these tips will help you become a better writer.",
+        "category": "Writing",
+        "tags": ["Writing Skills", "Creative Writing"],
+        "author": {
+          "name": "Amy Johnson",
+          "email": "amyjohnson@example.com"
+        },
+        "created_at": "2022-03-01T12:00:00.000Z",
+        "updated_at": "2022-03-02T09:30:00.000Z"
+      },
+        {
+          "title": "How to Build a Successful Remote Team",
+          "body": "Learn the best practices for building and managing a successful remote team, and get tips for staying productive and engaged while working remotely.",
+          "category": "Business",
+          "tags": ["Remote Work", "Team Management"],
+          "author": {
+            "name": "John Smith",
+            "email": "johnsmith@example.com"
+          },
+          "created_at": "2022-02-28T15:30:00.000Z",
+          "updated_at": "2022-03-01T14:00:00.000Z"
+        },
+        {
+          "title": "The Benefits of Meditation for Your Mental Health",
+          "body": "Discover the benefits of incorporating a meditation practice into your daily routine, and get started with some simple and effective techniques.",
+          "category": "Mental Health",
+          "tags": ["Meditation", "Mindfulness"],
+          "author": {
+            "name": "Sarah Lee",
+            "email": "sarahlee@example.com"
+          },
+          "created_at": "2022-02-25T11:45:00.000Z",
+          "updated_at": "2022-02-26T09:15:00.000Z"
+        },
+        {
+          "title": "The Top 5 Benefits of Regular Exercise",
+          "body": "Discover the many physical and mental benefits of regular exercise, and get tips for creating a sustainable and enjoyable exercise routine.",
+          "category": "Fitness",
+          "tags": ["Exercise", "Wellness"],
+          "author": {
+            "name": "Mike Johnson",
+            "email": "mikejohnson@example.com"
+          },
+          "created_at": "2022-02-23T09:00:00.000Z",
+          "updated_at": "2022-02-24T06:30:00.000Z"
+        },
+        {
+          "title": "5 Common Myths About Investing",
+          "body": "Don't let these common investing myths hold you back from building your wealth. Learn the truth about investing and get started with some simple strategies.",
+          "category": "Finance",
+          "tags": ["Investing", "Wealth Management"],
+          "author": {
+            "name": "Laura Kim",
+            "email": "laurakim@example.com"
+          },
+          "created_at": "2022-02-20T13:15:00.000Z",
+          "updated_at": "2022-02-22T10:45:00.000Z"
+        },
+        {
+          "title": "How to Master the Art of Public Speaking",
+          "body": "Whether you're giving a presentation at work or speaking at a social event, these tips will help you become a confident and effective public speaker.",
+          "category": "Communication",
+          "tags": ["Public Speaking", "Presentation Skills"],
+          "author": {
+            "name": "Daniel Kim",
+            "email": "danielkim@example.com"
+          },
+          "created_at": "2022-02-18T09:30:00.000Z",
+          "updated_at": "2022-02-19T07:00:00.000Z"
+        },{
+            "title": "How to Build a Successful Remote Team",
+            "body": "Learn the best practices for building and managing a successful remote team, and get tips for staying productive and engaged while working remotely.",
+            "category": "Business",
+            "tags": ["Remote Work", "Team Management"],
+            "author": {
+              "name": "John Smith",
+              "email": "johnsmith@example.com"
+            },
+            "created_at": "2022-02-28T15:30:00.000Z",
+            "updated_at": "2022-03-01T14:00:00.000Z"
+          },
+          {
+            "title": "The Benefits of Meditation for Your Mental Health",
+            "body": "Discover the benefits of incorporating a meditation practice into your daily routine, and get started with some simple and effective techniques.",
+            "category": "Mental Health",
+            "tags": ["Meditation", "Mindfulness"],
+            "author": {
+              "name": "Sarah Lee",
+              "email": "sarahlee@example.com"
+            },
+            "created_at": "2022-02-25T11:45:00.000Z",
+            "updated_at": "2022-02-26T09:15:00.000Z"
+          },
+          {
+            "title": "The Top 5 Benefits of Regular Exercise",
+            "body": "Discover the many physical and mental benefits of regular exercise, and get tips for creating a sustainable and enjoyable exercise routine.",
+            "category": "Fitness",
+            "tags": ["Exercise", "Wellness"],
+            "author": {
+              "name": "Mike Johnson",
+              "email": "mikejohnson@example.com"
+            },
+            "created_at": "2022-02-23T09:00:00.000Z",
+            "updated_at": "2022-02-24T06:30:00.000Z"
+          },
+          {
+            "title": "5 Common Myths About Investing",
+            "body": "Don't let these common investing myths hold you back from building your wealth. Learn the truth about investing and get started with some simple strategies.",
+            "category": "Finance",
+            "tags": ["Investing", "Wealth Management"],
+            "author": {
+              "name": "Laura Kim",
+              "email": "laurakim@example.com"
+            },
+            "created_at": "2022-02-20T13:15:00.000Z",
+            "updated_at": "2022-02-22T10:45:00.000Z"
+          },
+          {
+            "title": "How to Master the Art of Public Speaking",
+            "body": "Whether you're giving a presentation at work or speaking at a social event, these tips will help you become a confident and effective public speaker.",
+            "category": "Communication",
+            "tags": ["Public Speaking", "Presentation Skills"],
+            "author": {
+              "name": "Daniel Kim",
+              "email": "danielkim@example.com"
+            },
+            "created_at": "2022-02-18T09:30:00.000Z",
+            "updated_at": "2022-02-19T07:00:00.000Z"
+          }
+     
+]
