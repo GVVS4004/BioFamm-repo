@@ -75,3 +75,5 @@ Technologies Used
     Express
     MongoDB
     Mongoose
+    
+There is an test.json file in the repo which contains the dataset for the schema used for blog post.You can check it out. 
